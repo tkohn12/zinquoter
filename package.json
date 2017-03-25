@@ -1,0 +1,18 @@
+{
+  "name": "zinquoter",
+  "version": "1.0.0",
+  "description": "A discord bot to capture quotes in the heat of the moment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gtwk12",
+  "license": "ISC",
+  "dependencies": {
+    "discord-akairo": "^7.2.0",
+    "discord.js": "^11.0.0",
+    "discord.js-commando": "^0.9.0",
+    "mongodb": "^2.2.25",
+    "sqlite": "^2.5.0"
+  }
+}
